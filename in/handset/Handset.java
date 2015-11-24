@@ -1,6 +1,6 @@
 package in.handset;
 
-import in.shared.Shared;
+import com.shared.Shared;
 
 public class Handset{
 	public static void main(String arg[]){
