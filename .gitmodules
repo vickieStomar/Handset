@@ -1,3 +1,6 @@
 [submodule "com"]
 	path = com
 	url = https://github.com/vickieStomar/Shared.git
+[submodule "META-DATA"]
+	path = META-DATA
+	url = https://github.com/vickieStomar/repo1.git
